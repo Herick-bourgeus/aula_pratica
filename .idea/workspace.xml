@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93313f95-9f5a-481f-9e01-231494406f74" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lista5/lista5_exe1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista5/lista5_exe2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista5/lista5_exe3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lista4/lista4_exe3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista4/lista4_exe3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lista4/lista4_exe7.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista4/lista4_exe7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lista4/lista4_exe8.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista4/lista4_exe8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +90,7 @@
     "Python.lista4_exe6.executor": "Run",
     "Python.lista4_exe7.executor": "Run",
     "Python.lista4_exe8.executor": "Run",
+    "Python.lista5_exe2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -146,6 +147,7 @@
       <workItem from="1712883626651" duration="121000" />
       <workItem from="1713393391944" duration="7109000" />
       <workItem from="1713478693453" duration="5342000" />
+      <workItem from="1713997341912" duration="4823000" />
     </task>
     <servers />
   </component>
@@ -159,6 +161,7 @@
     <SUITE FILE_PATH="coverage/Herick$lista2_exe4.coverage" NAME="lista2_exe4 Coverage Results" MODIFIED="1711671715390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lista2" />
     <SUITE FILE_PATH="coverage/Herick$lista01_exe06.coverage" NAME="lista01_exe06 Coverage Results" MODIFIED="1710376675690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lista" />
     <SUITE FILE_PATH="coverage/Herick$lista4_exe3.coverage" NAME="lista4_exe3 Coverage Results" MODIFIED="1713401463536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lista4" />
+    <SUITE FILE_PATH="coverage/Herick$lista5_exe2.coverage" NAME="lista5_exe2 Coverage Results" MODIFIED="1714000611003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lista5" />
     <SUITE FILE_PATH="coverage/Herick$lista4_exe01.coverage" NAME="lista4_exe01 Coverage Results" MODIFIED="1713393851675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lista4" />
     <SUITE FILE_PATH="coverage/pythonProject$Aula03_exe01.coverage" NAME="Aula03_exe01 Coverage Results" MODIFIED="1708643583433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Herick$lista1_exe07.coverage" NAME="lista1_exe07 Coverage Results" MODIFIED="1709853836063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
