@@ -1,3 +1,3 @@
-n = 5
+num = int(input('Digite um numero'))
 for i in range(1, 11):
-    print(f"{n} x {i} = {n * i}")
+    print(f"{num} x {i} = {num * i}")
