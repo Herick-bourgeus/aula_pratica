@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93313f95-9f5a-481f-9e01-231494406f74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lista6/aula6_exe7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista6/lista6_exe1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista6/lista6_exe10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista6/lista6_exe2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista6/lista6_exe3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista6/lista6_exe4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista6/lista6_exe5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista6/lista6_exe6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista6/lista6_exe8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista6/lista6_exe9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e.py" beforeDir="false" afterPath="$PROJECT_DIR$/e.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,92 +43,93 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.Aula03_exe01.executor": "Run",
-    "Python.Aula03_exe02.executor": "Run",
-    "Python.Aula03_exe03.executor": "Run",
-    "Python.Aula04_exe01.executor": "Run",
-    "Python.Aula04_exe2.executor": "Run",
-    "Python.Aula04_exe3.executor": "Run",
-    "Python.Aula05_exe01.executor": "Run",
-    "Python.PycharmProjects.executor": "Run",
-    "Python.Unnamed.executor": "Run",
-    "Python.atividade6.executor": "Run",
-    "Python.aula6_exe7.executor": "Run",
-    "Python.desafio.executor": "Run",
-    "Python.exemplo1.executor": "Run",
-    "Python.exemplo2.executor": "Run",
-    "Python.exemplo3.executor": "Run",
-    "Python.exemplo4.executor": "Run",
-    "Python.exemplo5.executor": "Run",
-    "Python.exemplo_for.executor": "Run",
-    "Python.idade.executor": "Run",
-    "Python.liosta01_exe05.executor": "Run",
-    "Python.lista01_exe02.executor": "Run",
-    "Python.lista01_exe04.executor": "Run",
-    "Python.lista01_exe06.executor": "Run",
-    "Python.lista1_exe05.executor": "Run",
-    "Python.lista1_exe07.executor": "Run",
-    "Python.lista1_exe08.executor": "Run",
-    "Python.lista1_exe09.executor": "Run",
-    "Python.lista1_exe10.executor": "Run",
-    "Python.lista2-exe8.executor": "Run",
-    "Python.lista2_exe1.executor": "Run",
-    "Python.lista2_exe10.executor": "Run",
-    "Python.lista2_exe2.executor": "Run",
-    "Python.lista2_exe3.executor": "Run",
-    "Python.lista2_exe4.executor": "Run",
-    "Python.lista2_exe5.executor": "Run",
-    "Python.lista2_exe6.executor": "Run",
-    "Python.lista2_exe7.executor": "Run",
-    "Python.lista2_exe9.executor": "Run",
-    "Python.lista3_exe1.executor": "Run",
-    "Python.lista3_exe2.executor": "Run",
-    "Python.lista3_exe3.executor": "Run",
-    "Python.lista3_exe5.executor": "Run",
-    "Python.lista3_exe8.executor": "Run",
-    "Python.lista4_exe01.executor": "Run",
-    "Python.lista4_exe02.executor": "Run",
-    "Python.lista4_exe10.executor": "Run",
-    "Python.lista4_exe3.executor": "Run",
-    "Python.lista4_exe4.executor": "Run",
-    "Python.lista4_exe6.executor": "Run",
-    "Python.lista4_exe7.executor": "Run",
-    "Python.lista4_exe8.executor": "Run",
-    "Python.lista5_exe2.executor": "Run",
-    "Python.lista5_exe3.executor": "Run",
-    "Python.lista5_exe4.executor": "Run",
-    "Python.lista5_exe5.executor": "Run",
-    "Python.lista5_exe6.executor": "Run",
-    "Python.lista5_exe8.executor": "Run",
-    "Python.lista6_exe1.executor": "Run",
-    "Python.lista6_exe2.executor": "Run",
-    "Python.lista6_exe3.executor": "Run",
-    "Python.lista6_exe4.executor": "Run",
-    "Python.lista6_exe5.executor": "Run",
-    "Python.lista6_exe6.executor": "Run",
-    "Python.lista6_exe8.executor": "Run",
-    "Python.lista6_exe9.executor": "Run",
-    "Python.unamed.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/ALUNO/PycharmProjects",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.Aula03_exe01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula03_exe02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula03_exe03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula04_exe01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula04_exe2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula04_exe3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula05_exe01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PycharmProjects.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.atividade6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula6_exe7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.e.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo_for.executor&quot;: &quot;Run&quot;,
+    &quot;Python.idade.executor&quot;: &quot;Run&quot;,
+    &quot;Python.liosta01_exe05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista01_exe02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista01_exe04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista01_exe06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista1_exe05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista1_exe07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista1_exe08.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista1_exe09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista1_exe10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista2-exe8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista2_exe1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista2_exe10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista2_exe2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista2_exe3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista2_exe4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista2_exe5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista2_exe6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista2_exe7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista2_exe9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista3_exe1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista3_exe2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista3_exe3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista3_exe5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista3_exe8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista4_exe01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista4_exe02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista4_exe10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista4_exe3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista4_exe4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista4_exe6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista4_exe7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista4_exe8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista5_exe2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista5_exe3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista5_exe4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista5_exe5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista5_exe6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista5_exe8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista6_exe1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista6_exe2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista6_exe3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista6_exe4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista6_exe5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista6_exe6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista6_exe8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista6_exe9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.unamed.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ALUNO/PycharmProjects&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ALUNO\PycharmProjects\Herick\lista2" />
@@ -209,7 +201,9 @@
       <workItem from="1714687941909" duration="5317000" />
       <workItem from="1715811868237" duration="4973000" />
       <workItem from="1715898573368" duration="4951000" />
-      <workItem from="1716503414840" duration="4873000" />
+      <workItem from="1716503414840" duration="5472000" />
+      <workItem from="1717718724450" duration="2653000" />
+      <workItem from="1718230973651" duration="2625000" />
     </task>
     <servers />
   </component>
@@ -263,6 +257,7 @@
     <SUITE FILE_PATH="coverage/Herick$lista3_exe1.coverage" NAME="lista3_exe1 Coverage Results" MODIFIED="1712795378935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lista3" />
     <SUITE FILE_PATH="coverage/Herick$idade.coverage" NAME="idade Coverage Results" MODIFIED="1709766684067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Herick$lista2_exe5.coverage" NAME="lista2_exe5 Coverage Results" MODIFIED="1711672206490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Herick$e.coverage" NAME="e Coverage Results" MODIFIED="1718235484213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Herick$desafio.coverage" NAME="desafio Coverage Results" MODIFIED="1711060432320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lista" />
     <SUITE FILE_PATH="coverage/Herick$lista2_exe6.coverage" NAME="lista2_exe6 Coverage Results" MODIFIED="1711672437394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Herick$liosta01_exe05.coverage" NAME="liosta01_exe05 Coverage Results" MODIFIED="1709856458314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
