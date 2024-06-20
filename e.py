@@ -98,11 +98,11 @@ while cont <= pessoas:
         feminino += 1
     else:
         masculino += 1
-
-cont =+ 1
-
+    cont =+ 1
 
 
+
+"""
 if maioridade > 0:
     print(f"A quantidade de pessoas que possuem idade superior a 18 anos é: {maioridade}")
 print(f"A média de idade é {media_idades:.2f} anos")
@@ -123,4 +123,4 @@ if peso_80 > 0:
 if porcentagem_feminino > 0:
     print(f"A porcentagem de pessoas do sexo feminino é: {porcentagem_feminino:.2f}%")
 if porcentagem_masculino > 0:
-    print(f"A porcentagem de pessoas do sexo masculino é: {porcentagem_masculino:.2f}%")
+    print(f"A porcentagem de pessoas do sexo masculino é: {porcentagem_masculino:.2f}%")"""

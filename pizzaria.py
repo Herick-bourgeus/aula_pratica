@@ -1,0 +1,67 @@
+"""Faça um algoritmo para calcular a conta de um número
+indefinido de mesas de uma pizzaria.
+Considere que o usuário possa informar através de um menu
+os seguintes itens:
+As bebidas e as quantidades vendidas
+As pizzas e as quantidades vendidas
+As sobremesas e as quantidades vendidas
+No final do processamento (no final do cálculo de todas
+as contas das mesas)
+as seguintes informações devem ser impressas:
+a. A maior e a menor conta
+b. A média de gasto por mesa
+c. A média de gasto por pessoa
+d. A média de pizzas consumida por mesa
+e. A média de pedaços de pizzas consumidas por pessoas
+f. A média de bebidas consumidas por mesas"""
+
+mesas = []
+mesa_numero = 1
+while True:
+    bebida_preco = 6.00
+    pizza_preco = 39.90
+    sobremesa_preco = 10.00
+    qtd_bebidas = 0
+    qtd_pizzas = 0
+    qtd_sobremesas = 0
+    pessoas = 0
+
+    print(f"Informe os itens consumidos pela mesa {mesa_numero}:")
+    while True:
+        print("1. Adicionar bebida")
+        print("2. Adicionar pizza")
+        print("3. Adicionar sobremesa")
+        print("4. finalizar conta da mesa")
+        opcao = int(input("Escolha uma opção: "))
+
+        if opcao == 1:
+            quantidade = int(input("Quantas Bebidas?"))
+            qtd_bebidas += quantidade
+        elif opcao == 2:
+            quantidade = int(input("Quantas pizzas?"))
+            qtd_pizzas += quantidade
+        elif opcao == 3:
+            quantidade = int(input("Quantas dobremesa?"))
+            qtd_sobremesas += quantidade
+        elif opcao == 4:
+            quantidade = int(input("Quantas pessoas na mesa?"))
+            break
+        else:
+            print("Opçao invalida, tente novamente")
+
+    total_conta =(qtd_bebidas * bebida_preco + qtd_pizzas * pizza_preco + qtd_sobremesas * sobremesa_preco)
+    mesas.append((mesa_numero, total_conta, pessoas, qtd_pizzas, qtd_bebidas, qtd_sobremesas))
+
+    print(f"\nRelatório da mesa {mesa_numero}:")
+    print(f"Bebidas: {qtd_bebidas} x R${bebida_preco:.2f} = R${qtd_bebidas * bebida_preco:.2f}")
+    print(f"Pizzas: {qtd_pizzas} x R${pizza_preco:.2f} = R${qtd_pizzas * pizza_preco:.2f}")
+    print(f"Sobremesas: {qtd_sobremesas} x R${sobremesa_preco:.2f} = R${qtd_sobremesas * sobremesa_preco:.2f}")
+    print(f"Total da conta: R${total_conta:.2f}\n")
+
+    mais_mesas = input("Deseja adicionar outra mesa? (s/n) ")
+    if mais_mesas.lower() != 's':
+        break
+
+    mesa_numero += 1
+
+
