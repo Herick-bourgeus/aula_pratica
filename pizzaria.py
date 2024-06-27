@@ -64,4 +64,48 @@ while True:
 
     mesa_numero += 1
 
+maior_conta = -1
+menor_conta = float('inf')
+total_gasto = 0
+total_pessoas = 0
+total_pizzas = 0
+total_bebidas = 0
+total_sobremesas = 0
 
+i = 0
+while i < len(mesas):
+    mesa_numero = mesas[i][0]
+    conta = mesas[i][1]
+    pessoas = mesas[i][2]
+    qtd_pizzas = mesas[i][3]
+    bebidas = mesas[i][4]
+    qtd_sobremesas = mesas[i][5]
+
+    if conta > maior_conta:
+        maior_conta = conta
+        mesa_maior_conta = mesa_numero
+    if conta < menor_conta:
+        menor_conta = conta
+        mesa_menor_conta = mesa_numero
+
+    total_gasto = total_gasto + conta
+    total_pessoas = total_pessoas + pessoas
+    total_pizzas = total_pizzas + qtd_pizzas
+    total_bebidas = total_bebidas + bebidas
+    total_sobremesas = total_sobremesas + qtd_sobremesas
+
+    i += 1
+
+media_gasto_mesa = total_gasto / len(mesas)
+media_gasto_pessoa = total_gasto / total_pessoas
+media_pizzas_mesa = total_pizzas / len(mesas)
+media_pedacos_pessoa = (total_pizzas * 8) / total_pessoas  # Considerando que cada pizza tem 8 pedaços
+media_cervejas_mesa = total_bebidas / len(mesas)
+
+print(f"Maior conta: R${maior_conta:.2f} (Mesa {mesa_maior_conta})")
+print(f"Menor conta: R${menor_conta:.2f} (Mesa {mesa_menor_conta})")
+print(f"Média de gasto por mesa: R${media_gasto_mesa:.2f}")
+print(f"Média de gasto por pessoa: R${media_gasto_pessoa:.2f}")
+print(f"Média de qtd_pizzas consumidas por mesa: {media_pizzas_mesa:.2f}")
+print(f"Média de pedaços de pizza consumidos por pessoa: {media_pedacos_pessoa:.2f}")
+print(f"Média de cervejas consumidas por mesa: {media_cervejas_mesa:.2f}")
